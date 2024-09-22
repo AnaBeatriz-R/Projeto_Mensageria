@@ -1,0 +1,11 @@
+# Dependências do Node.js
+node_modules/
+
+# Ambiente de desenvolvimento
+.env
+
+# Outros arquivos de sistema
+*serjava-demo-1aceb58abd45.json
+
+
+yarn.lock
